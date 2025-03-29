@@ -1,0 +1,3 @@
+conda activate harvestify
+cd C:\Users\KIIT\Desktop\Harvestify_App\Harvestify\app
+python app.py
