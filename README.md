@@ -33,7 +33,7 @@ Krishimitra is an AI-based platform that provides smart solutions for farming th
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/yourusername/krishimitra.git
+git clone https://github.com/AmarnathBhuyan/Krishimitra.git
 cd krishimitra
 pip install -r requirements.txt
 python app.py
